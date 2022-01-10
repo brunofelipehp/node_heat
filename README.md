@@ -32,4 +32,4 @@ A aplicação pode ser acessada em [`localhost:4000`](http://localhost:4000).
 
 ---
 
-Aprendendo com ♥ by Rocketseat 👋🏻 &nbsp;
+Aprendendo com ♥ Rocketseat 👋🏻 &nbsp;
